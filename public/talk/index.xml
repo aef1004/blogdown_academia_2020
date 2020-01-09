@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Amy Fox</title>
+    <link>https://academia-hugo.netlify.com/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Amy Fox</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2019 16:30:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://academia-hugo.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development of an R-based Pipeline to Analyze Flow Cytometry Data</title>
+      <link>https://academia-hugo.netlify.com/talk/cyto2019/</link>
+      <pubDate>Tue, 25 Jun 2019 16:30:00 +0000</pubDate>
+      
+      <guid>https://academia-hugo.netlify.com/talk/cyto2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of an R-based data analysis pipeline to analyze 21-color Cytek Aurora™ flow cytometry data and elucidate memory T cell populations in response to BCG vaccination</title>
+      <link>https://academia-hugo.netlify.com/talk/cytek2019/</link>
+      <pubDate>Thu, 20 Jun 2019 14:00:00 +0000</pubDate>
+      
+      <guid>https://academia-hugo.netlify.com/talk/cytek2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
