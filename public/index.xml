@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amy Fox</title>
-    <link>https://academia-hugo.netlify.com/</link>
+    <link>/</link>
     <description>Recent content on Amy Fox</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jun 2019 16:30:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://academia-hugo.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page 1</title>
-      <link>https://academia-hugo.netlify.com/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academia:&lt;/p&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Example Page 1</title>
-      <link>https://academia-hugo.netlify.com/courses/example.1/example3/</link>
+      <link>/courses/example.1/example3/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/courses/example.1/example3/</guid>
+      <guid>/courses/example.1/example3/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academia:&lt;/p&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>Example Page 1</title>
-      <link>https://academia-hugo.netlify.com/courses/example.2/example3/</link>
+      <link>/courses/example.2/example3/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/courses/example.2/example3/</guid>
+      <guid>/courses/example.2/example3/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academia:&lt;/p&gt;
@@ -121,10 +121,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://academia-hugo.netlify.com/courses/example.2/example4/</link>
+      <link>/courses/example.2/example4/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/courses/example.2/example4/</guid>
+      <guid>/courses/example.2/example4/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with academia:&lt;/p&gt;
@@ -157,10 +157,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://academia-hugo.netlify.com/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with academia:&lt;/p&gt;
@@ -193,10 +193,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://academia-hugo.netlify.com/courses/example.1/example4/</link>
+      <link>/courses/example.1/example4/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/courses/example.1/example4/</guid>
+      <guid>/courses/example.1/example4/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with academia:&lt;/p&gt;
@@ -229,28 +229,28 @@
     
     <item>
       <title>Development of an R-based Pipeline to Analyze Flow Cytometry Data</title>
-      <link>https://academia-hugo.netlify.com/talk/cyto2019/</link>
+      <link>/talk/cyto2019/</link>
       <pubDate>Tue, 25 Jun 2019 16:30:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/talk/cyto2019/</guid>
+      <guid>/talk/cyto2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of an R-based data analysis pipeline to analyze 21-color Cytek Aurora™ flow cytometry data and elucidate memory T cell populations in response to BCG vaccination</title>
-      <link>https://academia-hugo.netlify.com/talk/cytek2019/</link>
+      <link>/talk/cytek2019/</link>
       <pubDate>Thu, 20 Jun 2019 14:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/talk/cytek2019/</guid>
+      <guid>/talk/cytek2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with academia</title>
-      <link>https://academia-hugo.netlify.com/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -310,10 +310,10 @@ rm Untitled.md
     
     <item>
       <title>Slides</title>
-      <link>https://academia-hugo.netlify.com/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -491,11 +491,21 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An experimental evaluation of gar scale arrow points</title>
-      <link>https://academia-hugo.netlify.com/publication/arrowpoints/</link>
+      <link>/publication/arrowpoints/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/publication/arrowpoints/</guid>
+      <guid>/publication/arrowpoints/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -506,10 +516,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Synanthropic Mammals as Potential Hosts of Tick-Borne Pathogens in Panama</title>
-      <link>https://academia-hugo.netlify.com/publication/borrelia/</link>
+      <link>/publication/borrelia/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/publication/borrelia/</guid>
+      <guid>/publication/borrelia/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -520,30 +530,30 @@ $$&lt;/p&gt;
     
     <item>
       <title>An Experimental Evaluation of Gar Scale Arrow Points</title>
-      <link>https://academia-hugo.netlify.com/project/gar-scales/</link>
+      <link>/project/gar-scales/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/project/gar-scales/</guid>
+      <guid>/project/gar-scales/</guid>
       <description>&lt;p&gt;It has been speculated that gar scales could have been used as arrow points in the Stone Age, especially in lithic-poor areas. I explored the usage and feasibility of gar scales as potential arrow points. I predicted that gar scales are feasible arrows point, and most will not break when used. To test this hypothesis, I shot a series of gar scale arrow points at an animal carcass using a calibrated cross bow. Based on my observations that the majority of the gar scales did not break and the fractures that did ensue usually occurred on the points with very thin serrated edges, my results can aid in the identification of potential alligator gar scale arrows at archeological sites. Through this project, I learned how to perform extensive literature searches on a neglected subject, execute a research project, and I wrote a paper that was published in the Journal of Houston Archeological Society.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lace-Tension Controlled Compression Sock</title>
-      <link>https://academia-hugo.netlify.com/project/compression-sock/</link>
+      <link>/project/compression-sock/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/project/compression-sock/</guid>
+      <guid>/project/compression-sock/</guid>
       <description>&lt;p&gt;At Rice University, my senior design team developed an adjustable compression sock that is easier to don and doff. Chronic venous disorders (CVDs) affect 40% of the U.S. population, or 128 million people, in the United States alone. Out of the patients who are prescribed medical-grade compression socks, 63% do not wear them daily, because they are difficult to put on and uncomfortable to wear. Our goal was to develop a durable, comfortable compression sock that can be easily donned and delivers the necessary amount of pressure to mitigate the effects of CVD and reduce patient noncompliance. Our technology utilizes a clutch reel and corset-lacing so that it is easily wearable, comfortable, and delivers the necessary pressure. We obtained IRB approval and tested our compression sock on patients from 50-60 years old. We received many awards through presenting our design at many showcases and poster presentations, and ultimately submitted a patent for our design.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Study of Snail Behavior</title>
-      <link>https://academia-hugo.netlify.com/post/snail/</link>
+      <link>/post/snail/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/post/snail/</guid>
+      <guid>/post/snail/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -622,8 +632,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/snail/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;/post/snail/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -635,8 +645,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/snail/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;/post/snail/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -648,8 +658,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/snail/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;/post/snail/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -661,8 +671,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/snail/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;/post/snail/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -674,8 +684,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/snail/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;/post/snail/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -687,8 +697,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/snail/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;/post/snail/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -700,8 +710,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/snail/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;/post/snail/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -713,8 +723,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/snail/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/snail/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;/post/snail/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -757,10 +767,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>academia: the website builder for Hugo</title>
-      <link>https://academia-hugo.netlify.com/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -839,8 +849,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -852,8 +862,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -865,8 +875,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -878,8 +888,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -891,8 +901,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -904,8 +914,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -917,8 +927,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -930,8 +940,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;https://academia-hugo.netlify.com/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -974,10 +984,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://academia-hugo.netlify.com/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -1014,7 +1024,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://academia-hugo.netlify.com/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
