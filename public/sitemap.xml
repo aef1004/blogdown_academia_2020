@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -50,7 +50,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2019-06-25T16:30:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -76,7 +75,6 @@
   <url>
     <loc>/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -92,7 +90,6 @@
   <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -106,12 +103,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/arrowpoints/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
   </url>
@@ -119,85 +110,66 @@
   <url>
     <loc>/authors/aparna-krishnvajhala/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/august-costa/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/azael-saldana/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/carlos-m.-caballero/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/chystrie-rigg/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/diorene-smith/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/hannah-k.wilder/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/job-e.-lopez/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jose-e.calzada/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/kadir-gonza-lez/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/marielena-lo-pez/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/milixa-perea/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/nicole-gottdenker/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -208,19 +180,16 @@
   <url>
     <loc>/authors/santiago-montilla/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sergio-e.bermu-dez/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/source-themes/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -231,7 +200,6 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -247,7 +215,6 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -258,7 +225,6 @@
   <url>
     <loc>/tags/academia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -269,7 +235,6 @@
   <url>
     <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -278,31 +243,31 @@
   </url>
   
   <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
   </url>
   
 </urlset>
