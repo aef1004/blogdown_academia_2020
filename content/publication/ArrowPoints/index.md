@@ -16,7 +16,7 @@ projects: null
 publication: In *Houston Archeological Society*
 publication_short: 
 publication_types:
-- "2"
+# - "2"
 publishDate: "2015-12-01T00:00:00Z"
 summary: In this paper we outline the results of an experimental archeological study aimed at establishing criteria for recognizing alligator gar scale points.
 tags:

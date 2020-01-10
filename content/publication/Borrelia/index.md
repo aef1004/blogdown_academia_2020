@@ -30,7 +30,7 @@ projects: null
 publication: In *PLOS ONE*
 publication_short: 
 publication_types:
-- "2"
+# - "2"
 publishDate: "2017-01-06T00:00:00Z"
 summary: These findings may reflect a potential role of both coyotes and opossums in the ecology of tick-borne pathogens in Panama.
 tags:
