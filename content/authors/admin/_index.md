@@ -41,7 +41,7 @@ user_groups:
 - Visitors
 ---
 
-Amy Fox is a graduate student studying computational immunology at Colorado State University. She's currently testing the efficacy of different tuberculosis vaccines in mice, and I’m working on developing an R-based data analysis pipeline for flow cytometry data.
+Amy Fox is a graduate student studying computational immunology at Colorado State University. She's currently testing the efficacy of different tuberculosis vaccines in mice and working on developing an R-based data analysis pipeline for flow cytometry data.
 
 ![reviews](../../img/pic_in_lab.jpg)
 
