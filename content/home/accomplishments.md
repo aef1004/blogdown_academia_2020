@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "CSU CVMBS Research Day"
+  organization_url = "http://gaussi.colostate.edu/"
+  title = "Basic Science Oral Presentation: 2nd Place"
+  url = ""
+  certificate_url = "https://www.instagram.com/p/B77C5MPDeNa/?utm_source=ig_web_copy_link"
+  date_start = "2020-01-25"
+  date_end = ""
+  description = "Received 2nd Place for oral presentation on cyto-feature engineering pipeline"
+
+[[item]]
   organization = "National Science Foundation"
   organization_url = "http://gaussi.colostate.edu/"
   title = "GAUSSI Fellowship"
@@ -48,23 +58,23 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Received Most Investable Design Award for smart compression sock design"
   
-# [[item]]
-#   organization = "US Patents"
-#   organization_url = ""
-#   title = "Patent Pending"
-#   url = ""
-#   certificate_url = "https://patents.justia.com/patent/20180303677"
-#   date_start = "2018-4-20"
-#   date_end = ""
-#   description = "Submitted patent for Lace Tension-Controlled Compression Sock"
-#   
+  [[item]]
+  organization = "US Patents"
+  organization_url = ""
+  title = "Patent Pending"
+  url = ""
+  certificate_url = "https://patents.justia.com/patent/20180303677"
+  date_start = "2018-04-20"
+  date_end = ""
+  description = "Submitted patent for Lace Tension-Controlled Compression Sock"
+  
 # [[item]]
 #   organization = "Eigth Annual Elevator Pitch Competition"
 #   organization_url = ""
 #   title = "1st Place and People's Choice Award"
 #   url = ""
 #   certificate_url = ""
-#   date_start = "2016-4-20"
+#   date_start = "2016-04-20"
 #   date_end = ""
 #   description = "Received 1st place and People's Choice Award in elevator pitch competition for designed compression sock pitch"
 #   
@@ -74,7 +84,7 @@ date_format = "Jan 2006"
 #   title = "Travel Award"
 #   url = ""
 #   certificate_url = ""
-#   date_start = "2016-4-20"
+#   date_start = "2016-04-20"
 #   date_end = ""
 #   description = "Received travel award to attend Keystone Symposia: Tuberculosis Conference in Banff, Canada"
 #   
