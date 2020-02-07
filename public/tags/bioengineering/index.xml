@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioengineering on Amy Fox</title>
+    <link>/tags/bioengineering/</link>
+    <description>Recent content in bioengineering on Amy Fox</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/bioengineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lace-Tension Controlled Compression Sock</title>
+      <link>/project/compression-sock/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/compression-sock/</guid>
+      <description>&lt;p&gt;At Rice University, my senior design team developed an adjustable compression sock that is easier to don and doff. Chronic venous disorders (CVDs) affect 40% of the U.S. population, or 128 million people, in the United States alone. Out of the patients who are prescribed medical-grade compression socks, 63% do not wear them daily, because they are difficult to put on and uncomfortable to wear. Our goal was to develop a durable, comfortable compression sock that can be easily donned and delivers the necessary amount of pressure to mitigate the effects of CVD and reduce patient noncompliance. Our technology utilizes a clutch reel and corset-lacing so that it is easily wearable, comfortable, and delivers the necessary pressure. We obtained IRB approval and tested our compression sock on patients from 50-60 years old. We received many awards through presenting our design at many showcases and poster presentations, and ultimately submitted a patent for our design.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

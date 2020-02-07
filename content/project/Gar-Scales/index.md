@@ -11,7 +11,8 @@ links:
   url: https://twitter.com/georgecushen
 slides: example
 summary: 
-tags:
+tags: 
+- demo
 title: An Experimental Evaluation of Gar Scale Arrow Points
 url_code: ""
 url_pdf: ""

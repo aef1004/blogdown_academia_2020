@@ -12,6 +12,7 @@ links:
 slides: example
 summary: Development of a compression sock that is easier to don and doff
 tags: 
+- bioengineering
 title: Lace-Tension Controlled Compression Sock
 url_code: ""
 url_pdf: ""

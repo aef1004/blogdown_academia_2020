@@ -27,7 +27,7 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   
   [[content.filter_button]]
     name = "Bioengineering"
-    tag = "Bioengineering"
+    tag = "bioengineering"
   
   [[content.filter_button]]
     name = "R Programming"
