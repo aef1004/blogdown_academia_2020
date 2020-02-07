@@ -2,14 +2,14 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+- icon: file-contract
+  icon_pack: fas
+  name: Paper
+  url: https://www.researchgate.net/publication/315665515_AN_EXPERIMENTAL_EVALUATION_OF_GAR_SCALE_ARROW_POINTS
+slides: 
 summary: 
 tags: 
 - demo
