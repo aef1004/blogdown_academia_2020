@@ -2,16 +2,17 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+- icon: file-contract
+  icon_pack: fas
+  name: Patent
+  url: https://patents.justia.com/patent/20180303677
+slides: 
 summary: Development of a compression sock that is easier to don and doff
 tags: 
+- bioengineering
 title: Lace-Tension Controlled Compression Sock
 url_code: ""
 url_pdf: ""

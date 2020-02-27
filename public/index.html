@@ -70,6 +70,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -1206,26 +1208,20 @@
               
               
               
-              <a href="#" data-filter=".js-id-Deep-Learning"
-                class="btn btn-primary btn-lg">Deep Learning</a>
+              <a href="#" data-filter=".js-id-bioengineering"
+                class="btn btn-primary btn-lg">Bioengineering</a>
               
               
               
               
-              <a href="#" data-filter=".js-id-Demo"
+              <a href="#" data-filter=".js-id-R"
+                class="btn btn-primary btn-lg">R Programming</a>
+              
+              
+              
+              
+              <a href="#" data-filter=".js-id-demo"
                 class="btn btn-primary btn-lg">Other</a>
-              
-              
-              
-              
-              <a href="#" data-filter=".js-id-human"
-                class="btn btn-primary btn-lg">Human</a>
-              
-              
-              
-              
-              <a href="#" data-filter=".js-id-robotics"
-                class="btn btn-primary btn-lg">Robotics</a>
               
             </li>
           </ul>
@@ -1249,7 +1245,7 @@
 
 
 
-<div class="project-card project-item isotope-item ">
+<div class="project-card project-item isotope-item js-id-demo">
   <div class="card rounded-0 shadow-sm">
     
     
@@ -1281,7 +1277,7 @@
 
 
 
-<div class="project-card project-item isotope-item ">
+<div class="project-card project-item isotope-item js-id-bioengineering">
   <div class="card rounded-0 shadow-sm">
     
     
@@ -2040,6 +2036,16 @@
   </div>
   <div class="col-12">
     
+    <div class="d-none">
+      <input id="map-provider" value="2">
+      <input id="map-lat" value="40.570710">
+      <input id="map-lng" value="-105.083102">
+      <input id="map-dir" value="Microbiology Building, 401 W Pitkin St., Fort Collins, CO 80521">
+      <input id="map-zoom" value="15">
+      <input id="map-api-key" value="AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ">
+    </div>
+    <div id="map"></div>
+    
   </div>
 </div>
     </div>
@@ -2073,6 +2079,8 @@
     
 
     
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
