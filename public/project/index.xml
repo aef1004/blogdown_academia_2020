@@ -6,10 +6,32 @@
     <description>Recent content in Projects on Amy Fox</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cyto-feature engineering- A novel pipeline for flow cytometry analysis</title>
+      <link>/project/cyto-feature-engineering/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cyto-feature-engineering/</guid>
+      <description>&lt;p&gt;Flow cytometers can now analyze up to 50 parameters per cell and millions of cells per sample;
+however, conventional methods to analyze data are subjective and time-consuming. To address these
+issues, we have developed a novel analysis pipeline to identify a plethora of cell populations efficiently.
+Coupled with feature engineering and immunological context, researchers can immediately extrapolate
+novel discoveries through easy-to-understand plots. The R-based pipeline uses Fluorescence Minus One
+(FMO) controls or distinct population differences to develop thresholds for positive/negative marker
+expression. The continuous data is transformed into binary data, capturing a positive/negative biological
+dichotomy often of interest in characterizing cells. Next, a filtering step refines the data, from all
+identified cell phenotypes to populations of interest. The data can be partitioned by immune lineages and
+statistically correlated to other experimental measurements. The pipeline’s modular nature allows
+customization of statistical testing, adoption of alternative initial gating steps, and incorporation of otherdatasets. Validation of this pipeline through manual gating of two datasets (murine splenocytes and
+human whole blood) confirmed its accuracy in identifying even rare subsets. Lastly, this pipeline can be
+applied in all disciplines utilizing flow cytometry regardless of cytometer or panel design.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An Experimental Evaluation of Gar Scale Arrow Points</title>
