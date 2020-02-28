@@ -6,10 +6,37 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Amy Fox</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2019 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 14:30:00 +0000</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cyto-feature engineering- a flow cytometry analysis pipeline to uncover immune populations and association with disease</title>
+      <link>/talk/aai2020/</link>
+      <pubDate>Sun, 10 May 2020 14:30:00 +0000</pubDate>
+      
+      <guid>/talk/aai2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow Through The Cyto-Feature Engineering Pipe(line)</title>
+      <link>/talk/demoday2020/</link>
+      <pubDate>Thu, 23 Apr 2020 14:30:00 +0000</pubDate>
+      
+      <guid>/talk/demoday2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyto-feature engineering- a flow cytometry analysis pipeline to uncover immune populations and association with disease</title>
+      <link>/talk/cvmbs2020/</link>
+      <pubDate>Sat, 25 Jan 2020 14:15:00 +0000</pubDate>
+      
+      <guid>/talk/cvmbs2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development of an R-based Pipeline to Analyze Flow Cytometry Data</title>
