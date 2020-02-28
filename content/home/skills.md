@@ -16,7 +16,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 
   
 [[feature]]
-  icon = "user-secret"
+  icon = "female"
   icon_pack = "fas"
   name = "Leadership"
   parcent = ""  
@@ -34,19 +34,25 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   parcent = ""
   
 [[feature]]
+  icon = "biohazard"
+  icon_pack = "fas"
+  name = "Microbiology Wet-lab"
+  parcent = ""
+  
+[[feature]]
   icon = "searchengin"
   icon_pack = "fab"
-  name = "Research"
+  name = "Animal Models"
   parcent = ""
   
 [[feature]]
-  icon = "desktop"
-  icon_pack = "fas"
-  name = "R"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R Programming"
   parcent = ""
   
 [[feature]]
-  icon = "atom"
+  icon = "vial"
   icon_pack = "fas"
   name = "Flow Cytometry"
   parcent = ""
