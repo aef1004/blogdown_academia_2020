@@ -14,7 +14,7 @@ education:
     year: 2021
   - course: BS in Bioengineering
     institution: Rice University
-    year: 2013
+    year: 2017
 email: ""
 interests:
 - Computational Immunology
