@@ -6,10 +6,19 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Amy Fox</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 10:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cyto-feature engineering: A Pipeline for Flow Cytometry Analysis</title>
+      <link>/talk/gaussi2020/</link>
+      <pubDate>Thu, 30 Apr 2020 10:00:00 +0000</pubDate>
+      
+      <guid>/talk/gaussi2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Picking an algorithm to analyze your big flow data</title>
