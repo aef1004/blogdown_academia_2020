@@ -6,10 +6,73 @@
     <description>Recent content in Authors on Amy Fox</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amy Fox</title>
+      <link>/authors/amy-fox/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/amy-fox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrés Obregón-Henao</title>
+      <link>/authors/andres-obregon-henao/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/andres-obregon-henao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burton Karger</title>
+      <link>/authors/burton-karger/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/burton-karger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Brooke Anderson</title>
+      <link>/authors/g.-brooke-anderson/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/g.-brooke-anderson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcela Henao-Tamayo</title>
+      <link>/authors/marcela-henao-tamayo/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/marcela-henao-tamayo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mauricio Rojas</title>
+      <link>/authors/mauricio-rojas/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mauricio-rojas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taru S. Dutt</title>
+      <link>/authors/taru-s.-dutt/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/taru-s.-dutt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -17,7 +80,7 @@
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Amy Fox is a graduate student studying computational immunology at Colorado State University. She&#39;s currently testing the efficacy of different tuberculosis vaccines in mice and working on developing an R-based data analysis pipeline for flow cytometry data.&lt;/p&gt;
+      <description>&lt;p&gt;Amy Fox is a graduate student studying computational immunology at Colorado State University. She&amp;rsquo;s currently testing the efficacy of different tuberculosis vaccines in mice and working on developing an R-based data analysis pipeline for flow cytometry data.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../../img/pic_in_lab.jpg&#34; alt=&#34;reviews&#34;&gt;&lt;/p&gt;
 </description>
     </item>

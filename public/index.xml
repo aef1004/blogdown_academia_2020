@@ -6,7 +6,7 @@
     <description>Recent content on Amy Fox</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2020 14:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,11 +21,29 @@
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/project/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/</guid>
       <description></description>
     </item>
     
@@ -49,29 +67,11 @@
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Posts</title>
       <link>/post/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/courses/</guid>
       <description></description>
     </item>
     
