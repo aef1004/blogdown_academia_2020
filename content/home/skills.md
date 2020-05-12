@@ -30,18 +30,18 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Analysis"
+  name = "Big Data Analysis"
   parcent = ""
   
 [[feature]]
   icon = "biohazard"
   icon_pack = "fas"
-  name = "Microbiology Wet-lab"
+  name = "BSL3 Wet Lab Research"
   parcent = ""
   
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
+  icon = "frog"
+  icon_pack = "fas"
   name = "Animal Models"
   parcent = ""
   
