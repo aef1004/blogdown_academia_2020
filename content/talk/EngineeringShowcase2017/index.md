@@ -1,24 +1,24 @@
 ---
-abstract: 
+abstract: Poster presentation on our designed adjustable compression. We won the  People's Choice award for our poster and presentation.
 all_day: false
 authors: []
-date: "2019-01-18T19:30:00Z"
-date_end: "2019-01-18T22:00:00Z"
-event: "Keystone Symposia: Tuberculosis Mechanisms, Pathogenesis, and Treatment"
-event_url: https://tks.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1627
+date: "2017-04-13T16:00:00Z"
+date_end: "2017-04-13T18:00:00Z"
+event: "Rice University Engineering Design Showcase"
+event_url: 
 featured: false
 image:
   caption: 
   focal_point: center
 links: null
-location: Banff, Canada
+location: Houston, TX
 math: true
 projects: null
 publishDate: "2020-05-12T00:00:00Z"
 slides: null
-summary: Poster presentation on analysis of persistance of BCG in different mouse models 
+summary: Poster presentation on our designed adjustable compression
 tags: []
-title: "Unsupervised Flow Cytometry Clustering Analysis of Memory Immune Populations in Response to BCG Vaccination and Persistence in Different Mouse Models"
+title: "Adjustable Compression Sock"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -178,21 +178,6 @@
   </url>
   
   <url>
-    <loc>/talk/bayareashowcase2017/</loc>
-    <lastmod>2019-01-18T19:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/elevatorpitch2016/</loc>
-    <lastmod>2019-01-18T19:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/engineeringshowcase2017/</loc>
-    <lastmod>2019-01-18T19:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -200,6 +185,16 @@
   <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/bayareashowcase2017/</loc>
+    <lastmod>2017-04-23T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/engineeringshowcase2017/</loc>
+    <lastmod>2017-04-13T16:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -290,6 +285,11 @@
   <url>
     <loc>/publication/borrelia/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/elevatorpitch2016/</loc>
+    <lastmod>2016-11-16T18:00:00+00:00</lastmod>
   </url>
   
   <url>

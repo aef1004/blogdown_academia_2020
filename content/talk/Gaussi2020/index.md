@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: Poster on the cyto-feature engineering pipeline
 all_day: false
 authors: []
 date: "2020-04-30T10:00:00Z"

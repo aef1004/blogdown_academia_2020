@@ -1,11 +1,11 @@
 ---
-abstract: 
+abstract: "We gave an elevator pitch for our novel compression sock design. We won two awards at this competition: First Place and People's Choice Award."
 all_day: false
 authors: []
-date: "2019-01-18T19:30:00Z"
-date_end: "2019-01-18T22:00:00Z"
-event: "Keystone Symposia: Tuberculosis Mechanisms, Pathogenesis, and Treatment"
-event_url: https://tks.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1627
+date: "2016-11-16T18:00:00Z"
+date_end: "2016-11-16T18:15:00Z"
+event: "Eigth Annual Elevator Pitch Competition"
+event_url: 
 featured: false
 image:
   caption: 
@@ -16,9 +16,9 @@ math: true
 projects: null
 publishDate: "2020-05-12T00:00:00Z"
 slides: null
-summary: Elevator pitch for designed compression sock pitch
+summary: Elevator pitch for designed compression sock
 tags: []
-title: "Unsupervised Flow Cytometry Clustering Analysis of Memory Immune Populations in Response to BCG Vaccination and Persistence in Different Mouse Models"
+title: "A Better Compression Sock"
 url_code: ""
 url_pdf: ""
 url_slides: ""
