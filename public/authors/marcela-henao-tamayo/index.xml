@@ -6,10 +6,20 @@
     <description>Recent content in Marcela Henao-Tamayo on Amy Fox</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/marcela-henao-tamayo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acquisition of High‐Quality Spectral Flow Cytometry Data</title>
+      <link>/publication/currentprotocols/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/currentprotocols/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Cyto-Feature Engineering: A Pipeline for Flow Cytometry Analysis to Uncover Immune Populations and Associations with Disease</title>
