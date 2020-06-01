@@ -84,13 +84,30 @@ date_format = "Jan 2006"
 
   """
   
+[[experience]]
+  title = "PhD Candidate"
+  company = "Colorado State University - Henao-Tamayo Lab"
+  company_url = ""
+  location = "Fort Collins, CO"
+  date_start = "2017-08-15"
+  date_end = ""
+  description = """
+  
+  Responsibilities included:
+  
+  * Developing flow cytometry analysis tools in R
+  * Testing the efficacy of candidate tuberculosis vaccines in murine models
+  * Collaborating with other labs to build statistical pipelines for gene expression data
+
+  """
+  
   [[experience]]
   title = "President-Technology Officer"
   company = "CSU MIP Graduate Student Organization"
   company_url = ""
   location = "Fort Collins, CO"
   date_start = "2017-08-20"
-  date_end = "2021-12-15"
+  date_end = ""
   description = """
   The CSU MIP GSO focuses on building community and developing career skills for the graduate students in the Microbiology, Immunology, and Pathology department
   
@@ -108,7 +125,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Fort Collins, CO"
   date_start = "2017-09-10"
-  date_end = "2021-12-15"
+  date_end = ""
   description = """
   Graduate Women in Science Northern Colorado focuses on providing networking events, panels, and trainings for our members as well as engaging in advocacy and outreach efforts.
   
