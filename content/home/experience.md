@@ -116,9 +116,8 @@ date_format = "Jan 2006"
   
   Responsibilities included:
   
-  * Applying for additional funding through internal grants: during my term, I wrote two grants for career and mentoring grants, for which we were awarded $2000
-  * Organizing meetings and events which include: housing tour and lunch for prospective students during their interviews, mentoring events which pair first year graduate stuents with older graduate students, and networking event with invited speakers both locally and nationally 
-  * Developing a facebook group to showcase events put on by the group and engage more students at events
+  * Organizing and planning outreach events in the local community which include: helping Girl Scout Troops in the area earn STEM-related badges, discussing STEM topics with residents at the Winslow Retirement Home, teaching students at the Stott Tinker Lab about the scientific method and other STEM subjects
+  * Maintaining the organization's website, facebook, and twitter to notify members of upcoming events and opportunities
 
   """
   
