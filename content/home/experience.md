@@ -84,4 +84,42 @@ date_format = "Jan 2006"
 
   """
   
+  [[experience]]
+  title = "President-Technology Officer"
+  company = "CSU MIP Graduate Student Organization"
+  company_url = ""
+  location = "Fort Collins, CO"
+  date_start = "2017-08-20"
+  date_end = "2021-12-15"
+  description = """
+  The CSU MIP GSO focuses on building community and developing career skills for the graduate students in the Microbiology, Immunology, and Pathology department
+  
+  Responsibilities included:
+  
+  * Applying for additional funding through internal grants: during my term, I wrote two grants for career and mentoring grants, for which we were awarded $2000
+  * Organizing meetings and events which include: housing tour and lunch for prospective students during their interviews, mentoring events which pair first year graduate stuents with older graduate students, and networking event with invited speakers both locally and nationally 
+  * Developing a facebook group to showcase events put on by the group and engage more students at events
+
+  """
+  
+    """
+  
+  [[experience]]
+  title = "Outreach Chair-Technology Officer-National Liaison"
+  company = "Graduate Women in Science Northern Colorado"
+  company_url = ""
+  location = "Fort Collins, CO"
+  date_start = "2017-09-10"
+  date_end = "2021-12-15"
+  description = """
+  Graduate Women in Science Northern Colorado focuses on providing networking events, panels, and trainings for our members as well as engaging in advocacy and outreach efforts.
+  
+  Responsibilities included:
+  
+  * Applying for additional funding through internal grants: during my term, I wrote two grants for career and mentoring grants, for which we were awarded $2000
+  * Organizing meetings and events which include: housing tour and lunch for prospective students during their interviews, mentoring events which pair first year graduate stuents with older graduate students, and networking event with invited speakers both locally and nationally 
+  * Developing a facebook group to showcase events put on by the group and engage more students at events
+
+  """
+  
 +++

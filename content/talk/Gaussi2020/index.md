@@ -13,7 +13,7 @@ image:
 links: null
 location: Virtual (due to Coronavirus)
 math: true
-projects: null
+projects: null 
 publishDate: "2020-05-12T00:00:00Z"
 slides: null
 summary: Poster on the cyto-feature engineering pipeline
