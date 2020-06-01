@@ -102,8 +102,6 @@ date_format = "Jan 2006"
 
   """
   
-    """
-  
   [[experience]]
   title = "Outreach Chair-Technology Officer-National Liaison"
   company = "Graduate Women in Science Northern Colorado"
