@@ -42,6 +42,6 @@ hero_media = "Casual.png"
   label = "Contact me"
 
 +++
-## My name is **Amy Fox** and I'm a **Graduate Student** specializing in **Computational Immunology**
+## My name is **Amy Fox** and I'm a **PhD Candidate** specializing in **Computational Immunology**
 
  When I’m not working in the lab, I like to travel and experience new food and cultures. 

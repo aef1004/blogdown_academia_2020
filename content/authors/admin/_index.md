@@ -24,7 +24,7 @@ name: Amy Fox
 organizations:
 - name: Colorado State University
   url: ""
-role: Graduate Student
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,7 +38,7 @@ user_groups:
 - Visitors
 ---
 
-Amy Fox is a graduate student studying computational immunology at Colorado State University. She's currently testing the efficacy of different tuberculosis vaccines in mice and working on developing an R-based data analysis pipeline for flow cytometry data.
+Amy Fox is a PhD candidate studying computational immunology at Colorado State University. She's currently testing the efficacy of different tuberculosis vaccines in mice and working on developing an R-based data analysis pipeline for flow cytometry data.
 
 ![reviews](../../img/pic_in_lab.jpg)
 
