@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Project Intern"
-  company = "Baylor College of Medicine"
+  company = "Baylor College of Medicine - Lopez Lab"
   company_url = ""
   location = "Houston, Texas"
   date_start = "2015-08-25"
@@ -120,7 +120,7 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Outreach Chair-Technology Officer-National Liaison"
+  title = "VP of Engagement - National Liaison - Outreach Chair"
   company = "Graduate Women in Science Northern Colorado"
   company_url = ""
   location = "Fort Collins, CO"
