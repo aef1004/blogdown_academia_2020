@@ -5,7 +5,7 @@ avatar_image: Professional_avatar.jpg
 bio: My research interests include bioengineering, computational immunology, and organizational data storage.
 btn:
 - label: Download CV
-  url: https://github.com/aef1004/blogdown/raw/master/public/Amy_Fox_CV.pdf
+  url: https://github.com/aef1004/blogdown_academia_2020/raw/master/content/authors/admin/Amy%20Fox%20CV.pdf
 display_education: true
 education:
   courses:
