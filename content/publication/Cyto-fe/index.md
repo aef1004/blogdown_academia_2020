@@ -11,7 +11,7 @@ authors:
 - Marcela Henao-Tamayo 
 
 date: "2020-05-06T00:00:00Z"
-doi: "0.1038/s41598-020-64516-0"
+doi: "10.1038/s41598-020-64516-0"
 featured: true
 image:
   caption: ''
