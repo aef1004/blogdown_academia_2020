@@ -26,6 +26,8 @@ date_format = "Jan 2006"
   date_end = "2017-08-01"
   description = """
   
+  Testmasters is committed to helping students improve their skills and score higher on standardized tests.
+  
   Responsibilities included:
   
   * Instructed classes of 30 students in 3-hour SAT and ACT math and science courses
@@ -41,6 +43,8 @@ date_format = "Jan 2006"
   date_start = "2015-08-25"
   date_end = "2017-05-05"
   description = """
+  
+  The Lopez Lab focuses on understanding the prevalence and mechanisms of tick-borne diseases in Central America.
   
   Responsibilities included:
   
@@ -76,6 +80,8 @@ date_format = "Jan 2006"
   date_end = "2015-07-01"
   description = """
   
+  Windy Cove Energy focuses on the acquisition and development of CO2 floodable oil fields.
+  
   Responsibilities included:
   
   * Organizing and performing quality control production and logging data
@@ -92,6 +98,8 @@ date_format = "Jan 2006"
   date_start = "2017-08-15"
   date_end = ""
   description = """
+  
+  The Henao-Tamayo Lab focuses on studying the immunopathogensis of Tuberculosis. We use animal models to evaluate the immune response elicited in response to vaccine candidates and the bacterium.
   
   Responsibilities included:
   
