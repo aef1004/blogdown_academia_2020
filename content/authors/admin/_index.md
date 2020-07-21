@@ -2,7 +2,7 @@
 authors:
 - admin
 avatar_image: Professional_avatar.jpg
-bio: My research interests include bioengineering, computational immunology, and organizational data storage.
+bio: My research interests include bioengineering, data science, and computational immunology.
 btn:
 - label: Download CV
   url: https://github.com/aef1004/blogdown_academia_2020/raw/master/content/authors/admin/Amy%20Fox%20CV.pdf
@@ -19,7 +19,7 @@ email: ""
 interests:
 - Computational Immunology
 - Bioengineering
-- Organizational Data Storage
+- Data Science
 name: Amy Fox
 organizations:
 - name: Colorado State University
