@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Automated nanostring analysis</title>
+      <link>/project/nanostring-analysis/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/nanostring-analysis/</guid>
+      <description>&lt;p&gt;NanoString nCounter is a technology used to assess gene expression data. I was recently approached by a colleague that spent weeks copy and pasting data into GraphPad to analyze the the data. In response, I built a pipeline that performs automated statistical analysis for the Nanostring data. The pipeline reads in and cleans the data that contains hundreds of genes per study animal. It then tests each gene-mouse group pair for normality, similar variances, and then performs the appropriate statistical test (t-test or Wilcox Mann-Whitney) based on the results. This pipeline reduces analysis time from 1 week to under 1 minute.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cyto-feature engineering- A novel pipeline for flow cytometry analysis</title>
       <link>/project/cyto-feature-engineering/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
