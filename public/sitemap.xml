@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-08-19T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cctsi-2020/</loc>
+    <lastmod>2020-08-19T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-08-19T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
@@ -128,11 +143,6 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-04-30T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/flowclass2020/</loc>
     <lastmod>2020-04-09T14:00:00+00:00</lastmod>
   </url>
@@ -173,11 +183,6 @@
   </url>
   
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -185,11 +190,6 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -355,6 +355,10 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
   </url>
   
   <url>
