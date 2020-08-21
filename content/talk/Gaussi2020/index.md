@@ -11,12 +11,12 @@ image:
   caption: 
   focal_point: center
 links: null
-location: Virtual (due to Coronavirus)
+location: Virtual (due to COVID-19)
 math: true
 projects: null 
 publishDate: "2020-05-12T00:00:00Z"
 slides: null
-summary: Poster on the cyto-feature engineering pipeline
+summary: Poster presentation at Front Range Computational & Systems Biology Symposium
 tags: []
 title: "Cyto-feature engineering: A Pipeline for Flow Cytometry Analysis"
 url_code: ""
