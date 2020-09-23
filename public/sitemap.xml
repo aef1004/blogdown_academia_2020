@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>/talk/advancedflow_2020/</loc>
+    <lastmod>2020-10-15T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-10-15T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/polychromaticflow_2020/</loc>
+    <lastmod>2020-10-06T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url>
@@ -169,11 +184,6 @@
   
   <url>
     <loc>/talk/mip_seminar_2020/</loc>
-    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2020-09-16T09:00:00+00:00</lastmod>
   </url>
   
