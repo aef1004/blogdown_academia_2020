@@ -63,6 +63,26 @@
   </url>
   
   <url>
+    <loc>/project/bactcountr/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url>
@@ -168,11 +188,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/taru-s.-dutt/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url>
@@ -229,16 +244,6 @@
   
   <url>
     <loc>/project/cyto-feature-engineering/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
