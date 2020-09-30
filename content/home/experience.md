@@ -101,7 +101,7 @@ date_format = "Jan 2006"
   
   The Henao-Tamayo Lab focuses on studying the immunopathogensis of Tuberculosis. We use animal models to evaluate the immune response elicited in response to vaccine candidates and the bacterium.
   
-  Responsibilities included:
+  Responsibilities include:
   
   * Developing flow cytometry analysis tools in R
   * Testing the efficacy of candidate tuberculosis vaccines in murine models
@@ -119,7 +119,7 @@ date_format = "Jan 2006"
   description = """
   The CSU MIP GSO focuses on building community and developing career skills for the graduate students in the Microbiology, Immunology, and Pathology department
   
-  Responsibilities included:
+  Responsibilities include:
   
   * Applying for additional funding through internal grants: during my term, I wrote two grants for career and mentoring grants, for which we were awarded $2000
   * Organizing meetings and events which include: housing tour and lunch for prospective students during their interviews, mentoring events which pair first year graduate stuents with older graduate students, and networking event with invited speakers both locally and nationally 
@@ -137,11 +137,29 @@ date_format = "Jan 2006"
   description = """
   Graduate Women in Science Northern Colorado focuses on providing networking events, panels, and trainings for our members as well as engaging in advocacy and outreach efforts.
   
-  Responsibilities included:
+  Responsibilities include:
   
   * Organizing and planning outreach events in the local community which include: helping Girl Scout Troops in the area earn STEM-related badges, discussing STEM topics with residents at the Winslow Retirement Home, teaching students at the Stott Tinker Lab about the scientific method and other STEM subjects
   * Maintaining the organization's website, facebook, and twitter to notify members of upcoming events and opportunities
 
   """
   
+[[experience]]
+  title = "CSU Ventures Ambassador"
+  company = "CSU Ventures"
+  company_url = ""
+  location = "Fort Collins, CO"
+  date_start = "2020-08-15"
+  date_end = ""
+  description = """
+  
+  CSU Ventures protects, manages, and licenses intelectual propery for Colorado State University
+  
+  Responsibilities include:
+  
+  * Supporting licensing staff by identifying and evaluating intellectual property
+  * Performing technology assessments including developing prior art searches and competitive landscapes, and market research analyses
+
+
+  """
 +++
