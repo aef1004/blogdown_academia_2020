@@ -11,7 +11,7 @@ education:
   courses:
   - course: PhD in Microbiology, Immunology, & Pathology
     institution: Colorado State University
-    year: Expected 2021
+    year: Expected December 2021
   - course: BS in Bioengineering
     institution: Rice University
     year: 2017
