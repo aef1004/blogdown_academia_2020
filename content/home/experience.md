@@ -157,9 +157,29 @@ date_format = "Jan 2006"
   
   Responsibilities include:
   
-  * Supporting licensing staff by identifying and evaluating intellectual property
   * Performing technology assessments including developing prior art searches and competitive landscapes, and market research analyses
+  
+    * Supporting licensing staff by identifying and evaluating intellectual property
 
+
+  """
+  
+  [[experience]]
+  title = "Data Scientist, Founding Team"
+  company = "The Neighborhood Score"
+  company_url = ""
+  location = "Houston, TX"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = """
+  
+  The Neighborhood Score is a real estate technology start-up company that focuses on helping people find and secure their dream neighborhood and home.
+  
+  Responsibilities include:
+  
+  * Mining essential and robust datasets nationwide, ensuring compatible formatting for the website
+  * Analyzing data to create efficient scoring frameworks that optimize meaning for users
+  * Performing ETL (extract, transform, load) specialist role to integrate data with Azure database
 
   """
 +++
