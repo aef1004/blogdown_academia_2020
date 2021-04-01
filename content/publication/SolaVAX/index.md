@@ -20,7 +20,7 @@ authors:
 - Raymond Goodrich
 
 date: "2020-11-13T00:00:00Z"
-doi: "10.1101/2020.11.13.381335"
+doi: "10.3390/vaccines9040340"
 featured: true
 image:
   caption: ''
@@ -28,15 +28,15 @@ image:
   preview_only: false
 links: null
 projects: null
-publication: Preprint on bioRxiv
+publication: Vaccines
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2020-11-13T00:00:00Z"
+publishDate: "2021-4-01T00:00:00Z"
 summary: The paper describes a novel inactivated SARS-CoV-2 vaccination strategy that induces protection in hamsters. 
 tags:
 - Source Themes
-title: "A Whole Virion Vaccine for COVID-19 Produced Via a Novel Inactivation Method:  Results from Animal Challenge Model Studies"
+title: "A Whole Virion Vaccine for COVID-19 Produced via a Novel Inactivation Method and Preliminary Demonstration of Efficacy in an Animal Challenge Model"
 ---
 
 {{% alert note %}}
