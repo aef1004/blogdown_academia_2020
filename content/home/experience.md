@@ -103,7 +103,7 @@ date_format = "Jan 2006"
   
   Responsibilities included:
   
-  * Developing flow cytometry analysis tools in R
+  * Developing R-based analysis tools and pipelines
   * Testing the efficacy of candidate tuberculosis vaccines in murine models
   * Collaborating with other labs to build statistical pipelines for gene expression data
 
