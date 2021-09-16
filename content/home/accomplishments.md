@@ -19,9 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "CSU CVMBS Research Day"
-  organization_url = "http://gaussi.colostate.edu/"
-  title = "Basic Science Oral Presentation: 2nd Place"
+  organization = "CSU CVMBS Research Day 2021"
+  organization_url = "https://vetmedbiosci.colostate.edu/research-day/"
+  title = "Outstanding Poster Presentation: 3rd Place"
+  url = ""
+  certificate_url = "https://www.linkedin.com/feed/update/urn:li:activity:6762879312094904320/"
+  date_start = "2021-01-27"
+  date_end = ""
+  description = "Received 3rd Place for poster presentation on bactcountr analysis tool"
+
+[[item]]
+  organization = "CSU CVMBS Research Day 2020"
+  organization_url = ""
+  title = "Outstanding Oral Presentation, Basic Science: 2nd Place"
   url = ""
   certificate_url = "https://www.instagram.com/p/B77C5MPDeNa/?utm_source=ig_web_copy_link"
   date_start = "2020-01-25"

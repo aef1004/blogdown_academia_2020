@@ -48,8 +48,158 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-19T10:00:00+00:00</lastmod>
+    <loc>/talk/advancedflow_2020/</loc>
+    <lastmod>2020-10-15T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-10-15T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/polychromaticflow_2020/</loc>
+    <lastmod>2020-10-06T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/bactcountr/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/amy-fox/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andres-obregon-henao/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/annie-zhi-dai/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/esx5/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bing-chen/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/brendan-k.-podell/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/burton-karger/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/crystal-stanley/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ian-m.-orme/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-chan/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-kim/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/marcela-henao-tamayo/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mei-chen/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/regy-lukose/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sangeeta-tiwari/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/steven-a.-porcelli/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/taru-s.-dutt/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/william-r.-jacobs-jr./</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/mip_seminar_2020/</loc>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,72 +208,12 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-08-19T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/currentprotocols/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/amy-fox/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/andres-obregon-henao/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/burton-karger/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/g.-brooke-anderson/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/marcela-henao-tamayo/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/taru-s.-dutt/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,16 +248,6 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/cvmbs2020/</loc>
     <lastmod>2020-01-25T14:15:00+00:00</lastmod>
   </url>
@@ -183,6 +263,11 @@
   </url>
   
   <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -190,6 +275,11 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -355,10 +445,6 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
   <url>

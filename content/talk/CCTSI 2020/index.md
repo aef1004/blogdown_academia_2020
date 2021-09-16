@@ -11,12 +11,12 @@ image:
   caption: 
   focal_point: center
 links: null
-location: Virtual (due to Coronavirus)
+location: Virtual (due to COVID-19)
 math: true
 projects: null 
 publishDate: "2020-05-12T00:00:00Z"
 slides: null
-summary: Poster on novel SARS-CoV-2 vaccine 
+summary: Poster presenatation at CU-CSU Summit
 tags: []
 title: "Novel Coronavirus Vaccine Reduces SARS-CoV-2 Viral Load In Vivo"
 url_code: ""
