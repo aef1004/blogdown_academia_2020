@@ -39,6 +39,6 @@ user_groups:
 - Visitors
 ---
 
-Amy Fox successfully defended her PhD in October 2021. Her research focused on developing R-based data analysis pipelines for large biological datasets and  testing the efficacy of different tuberculosis and SARS-CoV-2 vaccines in mice. She is also the senior data scientist at an early-stage real estate technology start up company focused on using data to match people with their perfect neighborhood.
+Amy Fox successfully defended her PhD in October 2021. Her research focused on developing R-based data analysis pipelines for large biological datasets and  testing the efficacy of different tuberculosis and SARS-CoV-2 vaccines in mice. She is also a senior data scientist at an early-stage real estate technology start up company focused on using data to match people with their perfect neighborhood.
 
 
