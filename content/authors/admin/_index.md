@@ -11,7 +11,7 @@ education:
   courses:
   - course: PhD in Microbiology, Immunology, & Pathology
     institution: Colorado State University
-    year: Expected December 2021
+    year: December 2021
   - course: BS in Bioengineering
     institution: Rice University
     year: 2017
@@ -21,11 +21,11 @@ interests:
 - Bioengineering
 - Computational Immunology
 
-name: Amy Fox
+name: Amy Fox, PhD
 organizations:
-- name: Colorado State University
+- name: 
   url: ""
-role: PhD Candidate
+role:
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,6 +39,6 @@ user_groups:
 - Visitors
 ---
 
-Amy Fox is a PhD candidate studying computational immunology at Colorado State University. She's currently testing the efficacy of different tuberculosis vaccines in mice and working on developing an R-based data analysis pipelines for large biological datasets.
+Amy Fox successfully defended her PhD in October 2021. Her research focused on developing R-based data analysis pipelines for large biological datasets and  testing the efficacy of different tuberculosis and SARS-CoV-2 vaccines in mice. She is also the senior data scientist at an early-stage real estate technology start up company focused on using data to match people with their perfect neighborhood.
 
 
