@@ -96,7 +96,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Fort Collins, CO"
   date_start = "2017-08-15"
-  date_end = ""
+  date_end = "2021-12-31"
   description = """
   
   The Henao-Tamayo Lab focuses on studying the immunopathogensis of Tuberculosis. We use animal models to evaluate the immune response elicited in response to vaccine candidates and the bacterium.
@@ -115,7 +115,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Fort Collins, CO"
   date_start = "2017-08-20"
-  date_end = ""
+  date_end = "2021-12-31"
   description = """
   The CSU MIP GSO focuses on building community and developing career skills for the graduate students in the Microbiology, Immunology, and Pathology department
   
@@ -133,7 +133,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Fort Collins, CO"
   date_start = "2017-09-10"
-  date_end = ""
+  date_end = "2021-12-31"
   description = """
   Graduate Women in Science Northern Colorado focuses on providing networking events, panels, and trainings for our members as well as engaging in advocacy and outreach efforts.
   
@@ -150,7 +150,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Fort Collins, CO"
   date_start = "2020-08-15"
-  date_end = ""
+  date_end = "2021-05-30"
   description = """
   
   CSU Ventures protects, manages, and licenses intelectual propery for Colorado State University
@@ -183,4 +183,25 @@ date_format = "Jan 2006"
   * Performing ETL (extract, transform, load) specialist role to integrate data with Azure database
 
   """
+  
+  [[experience]]
+  title = "Principal Risk Specialist"
+  company = "Capital One"
+  company_url = ""
+  location = "Houston, TX"
+  date_start = "2022-01-10"
+  date_end = ""
+  description = """
+  
+  Capital One is a bank  specializing in credit cards, auto loans, commercial banking, and savings accounts,
+  
+  Responsibilities include:
+  
+  * Developing and building new credit data capabilities- leveraging tool sets including Python, SQL, and QuickSights
+  *  Managing monthly and quarterly management reporting of in progress regulatory and compliance initiatives
+  * Conducting analysis and data reconciliation on executive risk management reporting
+
+
+  """
+  
 +++
