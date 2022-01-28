@@ -2,7 +2,7 @@
 authors:
 - admin
 avatar_image: Professional_avatar.jpg
-bio: My research interests include bioengineering, data science, and computational immunology.
+bio: My research interests include data science, bioengineering, and computational immunology.
 btn:
 - label: Download CV
   url: https://github.com/aef1004/blogdown_academia_2020/raw/master/content/authors/admin/Amy%20Fox%20CV.pdf
@@ -11,7 +11,7 @@ education:
   courses:
   - course: PhD in Microbiology, Immunology, & Pathology
     institution: Colorado State University
-    year: December 2021
+    year: 2021
   - course: BS in Bioengineering
     institution: Rice University
     year: 2017
@@ -39,6 +39,6 @@ user_groups:
 - Visitors
 ---
 
-Amy Fox successfully defended her PhD in October 2021. Her research focused on developing R-based data analysis pipelines for large biological datasets and  testing the efficacy of different tuberculosis and SARS-CoV-2 vaccines in mice. She is also a senior data scientist at an early-stage real estate technology start up company focused on using data to match people with their perfect neighborhood.
+Amy Fox works as a Principal Risk Specialist at Capital One developing and building new credit data capabilities- leveraging tool sets including Python, SQL, and QuickSights. Prior to her work at Capital One, she recevied her PhD in 2021 where her research focused on developing R-based data analysis pipelines for large biological datasets and  testing the efficacy of different tuberculosis and SARS-CoV-2 vaccines in mice. She is also a senior data scientist at an early-stage real estate technology start up company focused on using data to match people with their perfect neighborhood. 
 
 
