@@ -42,6 +42,6 @@ hero_media = "Casual.png"
   label = "Contact me"
 
 +++
-## My name is **Amy Fox** and I'm a recent **PhD graduate** specializing in **Data Science** and **Computational Immunology** 
+## My name is **Amy Fox, PhD** and I'm a **Data Scientist** specializing in **Finance and Business Operations** 
 
  When I’m not working, I like to travel and experience new food and cultures. 
