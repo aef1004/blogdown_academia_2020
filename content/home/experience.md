@@ -185,23 +185,24 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Principal Risk Specialist"
+  title = "Risk Analytics Manager, Data Analytics & Risk"
   company = "Capital One"
   company_url = ""
   location = "Houston, TX"
   date_start = "2022-01-10"
-  date_end = ""
+  date_end = "2024-04-05"
   description = """
   
-  Capital One is a bank  specializing in credit cards, auto loans, commercial banking, and savings accounts,
+  Capital One is a bank  specializing in credit cards, auto loans, commercial banking, and savings accounts.
+  
+  Promoted from Principal Risk Analyst to Risk Analytics Manager within one year of starting.
   
   Responsibilities include:
   
   * Developing and building new credit data capabilities- leveraging tool sets including Python, SQL, and QuickSights
-  *  Managing monthly and quarterly management reporting of in progress regulatory and compliance initiatives
+  * Managing monthly and quarterly management reporting of in progress regulatory and compliance initiatives
   * Conducting analysis and data reconciliation on executive risk management reporting
 
 
-  """
-  
+  """  
 +++
