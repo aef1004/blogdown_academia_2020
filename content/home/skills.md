@@ -22,9 +22,15 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   
 [[feature]]
   icon = "python"
-  icon_pack = "fab"
+  icon_pack = "fa"
   name = "Python"
   parcent = ""  
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fa"
+  name = "SQL"
+  parcent = ""   
   
 [[feature]]
   icon = "female"
