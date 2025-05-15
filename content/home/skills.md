@@ -21,6 +21,12 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   parcent = ""
   
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  parcent = ""  
+  
+[[feature]]
   icon = "female"
   icon_pack = "fas"
   name = "Leadership"
@@ -43,14 +49,6 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon_pack = "fas"
   name = "BSL3 Wet Lab Research"
   parcent = ""
-  
-[[feature]]
-  icon = "frog"
-  icon_pack = "fas"
-  name = "Animal Models"
-  parcent = ""
-  
-
   
 [[feature]]
   icon = "vial"
