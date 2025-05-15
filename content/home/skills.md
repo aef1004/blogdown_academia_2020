@@ -14,6 +14,24 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R Programming"
+  parcent = ""
+  
+[[feature]]
+  icon = "python" ## update this
+  icon_pack = "fab"
+  name = "Python"
+  parcent = ""  
+
+[[feature]]
+  icon = "sql" ## update this
+  icon_pack = "fab"
+  name = "SQL"
+  parcent = "" 
+  
   
 [[feature]]
   icon = "female"
@@ -45,11 +63,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   name = "Animal Models"
   parcent = ""
   
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R Programming"
-  parcent = ""
+
   
 [[feature]]
   icon = "vial"
