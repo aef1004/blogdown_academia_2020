@@ -12,8 +12,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
+# For available icons, see: https://fontawesome.com/icons
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
@@ -21,7 +20,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   parcent = ""
   
 [[feature]]
-  icon = "python"
+  icon = "code"
   icon_pack = "fa"
   name = "Python"
   parcent = ""  
