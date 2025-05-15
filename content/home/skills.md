@@ -29,7 +29,19 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "database"
   icon_pack = "fa"
   name = "SQL"
-  parcent = ""   
+  parcent = ""  
+
+[[feature]]
+  icon = "table-columns" # need something
+  icon_pack = "fa"
+  name = "Dashboard Reporting"
+  parcent = ""     
+  
+[[feature]]
+  icon = "chart-diagram" # need something
+  icon_pack = "fa"
+  name = "Machine Learning"
+  parcent = ""    
   
 [[feature]]
   icon = "female"
