@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "amyfox@ricealumni.net"
 phone = "281 435 9719"
-address = """Houston, TX"""
+# address = """Houston, TX"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """"""
@@ -87,8 +87,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "29.7470"" # "40.570710"
-longitude = "95.3650" # "-105.083102"
+latitude =  "40.570710"
+longitude =  "-105.083102"
 zoom = 15
 
 ############################
