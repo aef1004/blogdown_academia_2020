@@ -18,6 +18,7 @@ education:
 email: ""
 interests:
 - Data Science
+- Finance
 - Bioengineering
 - Computational Immunology
 
@@ -39,6 +40,5 @@ user_groups:
 - Visitors
 ---
 
-Amy Fox works as a Principal Risk Specialist at Capital One developing and building new credit data capabilities- leveraging tool sets including Python, SQL, and QuickSights. Prior to her work at Capital One, she recevied her PhD in 2021 where her research focused on developing R-based data analysis pipelines for large biological datasets and  testing the efficacy of different tuberculosis and SARS-CoV-2 vaccines in mice. She is also a senior data scientist at an early-stage real estate technology start up company focused on using data to match people with their perfect neighborhood. 
-
+Amy Fox is a data scientist driven by a lifelong love of puzzles and the challenge of finding clarity in complexity. Most recently, she worked as a Risk Analyst and Manager at Capital One, where she developed new credit data capabilities using tools like Python, SQL, and QuickSight. She recently took a sabbatical to explore new directions and deepen her technical skill set. Amy earned her PhD in 2021, where she built R-based data analysis pipelines to handle large-scale biological datasets and evaluate the efficacy of tuberculosis and SARS-CoV-2 vaccines in mice. She also served as a senior data scientist at an early-stage real estate technology startup, helping build a platform that uses data to connect people with their ideal neighborhoods. Across industries, her work is unified by a passion for uncovering insights through data and solving complex problems with creativity and precision.
 
