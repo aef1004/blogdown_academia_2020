@@ -170,7 +170,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Houston, TX"
   date_start = "2020-10-01"
-  date_end = ""
+  date_end = "2022-01-10"
   description = """
   
   The Neighborhood Score is a real estate technology start-up company that focuses on helping people find and secure their dream neighborhood and home.
