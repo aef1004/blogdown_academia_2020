@@ -13,6 +13,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://fontawesome.com/icons
+# or try this: https://www.w3schools.com/icons/icons_reference.asp
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
@@ -32,14 +33,14 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   parcent = ""  
 
 [[feature]]
-  icon = "table-columns" # need something
-  icon_pack = "fa"
+  icon = "chart-bar" 
+  icon_pack = "fa"# might be fas?
   name = "Dashboard Reporting"
   parcent = ""     
   
 [[feature]]
-  icon = "chart-diagram" # need something
-  icon_pack = "fa"
+  icon = "connectdevelop"
+  icon_pack = "fa" # might be fab
   name = "Machine Learning"
   parcent = ""    
   
