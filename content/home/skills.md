@@ -40,7 +40,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   
 [[feature]]
   icon = "connectdevelop"
-  icon_pack = "fa" # might be fab
+  icon_pack = "fab" # might be fab
   name = "Machine Learning"
   parcent = ""    
   
