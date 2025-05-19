@@ -158,8 +158,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Performing technology assessments including developing prior art searches and competitive landscapes, and market research analyses
-  
-    * Supporting licensing staff by identifying and evaluating intellectual property
+  * Supporting licensing staff by identifying and evaluating intellectual property
 
 
   """
