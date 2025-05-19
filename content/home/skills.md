@@ -34,7 +34,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 
 [[feature]]
   icon = "chart-bar" 
-  icon_pack = "fa"# might be fas?
+  icon_pack = "fa"
   name = "Dashboard Reporting"
   parcent = ""     
   
