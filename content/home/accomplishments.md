@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Capital One"
+  organization_url = ""
+  title = "Business Process Management Certification"
+  url = ""
+  certificate_url = "https://www.linkedin.com/in/amy-fox1/details/certifications/1750351404783/single-media-viewer/?profileId=ACoAABlj12EBZkbSNZA0dyAYf9qFCCedbAe5BEo"
+  date_start = "2023-04-14"
+  date_end = ""
+  description = "Successfully completed my BPM certification"
+
+[[item]]
   organization = "CSU CVMBS Research Day 2021"
   organization_url = "https://vetmedbiosci.colostate.edu/research-day/"
   title = "Outstanding Poster Presentation: 3rd Place"
